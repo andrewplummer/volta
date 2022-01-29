@@ -20,7 +20,7 @@
 
 # Notion is now known as Volta.
 
-# Volta is the library formerly known as Notion. <img src="https://cdn.worldvectorlogo.com/logos/the-artist-formerly-known-as-prince.svg" height="25">
+# Volta is the tool formerly known as Notion. <img src="https://cdn.worldvectorlogo.com/logos/the-artist-formerly-known-as-prince.svg" height="25">
 
 <br><br>
 
